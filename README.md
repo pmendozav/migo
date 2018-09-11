@@ -6,7 +6,9 @@ install govendor:
 
   
 run:
+
   govendor init
+  
   govendor sync     
   
   
